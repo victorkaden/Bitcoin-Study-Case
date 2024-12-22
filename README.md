@@ -1,5 +1,21 @@
 # Bitcoin Study Case
 
+## Table of Contents
+- [Overview](#overview)
+- [Purpose](#purpose)
+- [Tools and Methodology](#tools-and-methodology)
+- [Code Examples](#code-examples)
+   - [Python: Data Analysis](#python-data-analysis)
+   - [SQL: Querying and Managing Data](#sql-querying-and-managing-data)
+- [Project Highlights](#project-highlights)
+   - [Bitcoin Creation Timeline](#bitcoin-creation-timeline)
+   - [Blockchain Technology](#blockchain-technology)
+   - [Bitcoin vs Fiat Comparison](#bitcoin-vs-fiat-comparison)
+   - [Bitcoin Halving and Monetary Policy](#bitcoin-halving-and-monetary-policy)
+   - [Real-Life Use Cases](#real-life-use-cases)
+- [Key Insights](#key-insights)
+- [Contact](#contact)
+
 ## Overview
 
 This repository contains an in-depth study and analysis of Bitcoin, showcasing its unique value proposition as a decentralized digital currency. The project explores Bitcoin's creation, blockchain technology, monetary policy, and comparison with traditional fiat currencies. Additionally, it highlights real-world use cases, institutional adoption, and Bitcoin's potential as a financial asset. Here is link for the [full presentation.](https://github.com/victorkaden/Bitcoin-Study-Case/blob/main/Bitcoin%20Study%20Case.pdf)
