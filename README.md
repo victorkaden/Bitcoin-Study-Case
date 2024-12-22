@@ -82,6 +82,7 @@ The primary goals of this study are:
 
 ![Screenshot 2024-12-22 193059](https://github.com/user-attachments/assets/125302b5-8c24-42dd-9828-2b61bd688a66)
 
+- Highlights differencies between Bitcoin vs Fiat.
 
 ---
 
