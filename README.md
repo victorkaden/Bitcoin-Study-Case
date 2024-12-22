@@ -5,7 +5,7 @@
 - [Purpose](#purpose)
 - [Tools and Methodology](#tools-and-methodology)
 - [Code Examples](#code-examples)
-   - [Python: Data Analysis](#python-data-analysis)
+   - [Python: Data Analysis](#python-data-analysis-and-visualization)
    - [SQL: Querying and Managing Data](#sql-querying-and-managing-data)
 - [Project Highlights](#project-highlights)
    - [Bitcoin Creation Timeline](#bitcoin-creation-timeline)
