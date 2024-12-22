@@ -49,6 +49,96 @@ The primary goals of this study are:
 
 ---
 
+## Project Highlights
+
+### **Bitcoin Creation Timeline**
+
+![Screenshot 2024-12-22 192824](https://github.com/user-attachments/assets/5e3674bb-163a-48bc-bf48-b9acbf9ee5af)
+
+
+- A chronological overview of Bitcoin's creation and milestones:
+  - **2008**: Introduction by Satoshi Nakamoto.
+  - **October 31, 2008**: Publication of Bitcoin’s whitepaper.
+  - **January 3, 2009**: Genesis Block mined.
+  - **January 12, 2009**: First Bitcoin transaction.
+ 
+ ---
+
+### **Blockchain Technology**
+
+![Screenshot 2024-12-22 193002](https://github.com/user-attachments/assets/b8285d5e-5b0d-47f4-8de6-7ee89dfd3a67)
+![Screenshot 2024-12-22 194701](https://github.com/user-attachments/assets/45f55664-ab19-4f1e-8791-b3e83a01a272)
+
+
+- Explains the blockchain’s structure, emphasizing key features:
+  - **Decentralization**: Operates without a central authority.
+  - **Transparency**: Publicly accessible transaction records.
+  - **Security**: Cryptographic techniques ensure data integrity and validation.
+ 
+---
+
+
+### **Bitcoin vs Fiat Comparison**
+
+![Screenshot 2024-12-22 193059](https://github.com/user-attachments/assets/125302b5-8c24-42dd-9828-2b61bd688a66)
+
+
+---
+
+### **Bitcoin Halving and Monetary Policy**
+
+![Screenshot 2024-12-22 193226](https://github.com/user-attachments/assets/3d03dc7e-25e0-4fcf-ab5f-8c95255fea7e)
+
+
+- Describes Bitcoin’s hard cap of 21 million coins.
+- Explains halving events and their impact on scarcity and value.
+
+---
+
+### **Real-Life Use Cases**
+
+![Screenshot 2024-12-22 193335](https://github.com/user-attachments/assets/bd22621b-2341-4f88-9f1d-6bb1d0aeed6a)
+
+
+- **Cross-Border Payments**: Enables low-cost, instant global transactions.
+- **Store of Value**: Serves as "digital gold" in regions experiencing hyperinflation.
+- **Institutional Adoption**: Increasing integration into financial strategies by companies and countries.
+
+---
+
+## Key Insights
+1. **Bitcoin Outperforms Fiat**:
+
+
+![Screenshot 2024-12-22 132824](https://github.com/user-attachments/assets/0392a881-bdca-404a-8517-b40626f8b150)
+
+
+   - Resistant to inflation due to its fixed supply.
+   - Transparent and decentralized, empowering individuals.
+
+---
+
+2. **Growing Adoption**:
+
+
+![Screenshot 2024-12-22 132828](https://github.com/user-attachments/assets/eb07a6f4-5636-4b78-8e33-1cb5c03631ee)
+
+
+   - Institutions like BlackRock and Fidelity validate Bitcoin as a financial asset.
+   - Regulatory clarity encourages further investment.
+
+---
+
+3. **Future Potential**:
+
+
+![Screenshot 2024-12-22 132836](https://github.com/user-attachments/assets/c037e4f4-9b0f-4293-95ac-4a416c8cb116)
+
+   - Bitcoin’s technological advancements (e.g., Lightning Network) make it scalable for daily use.
+   - Millennials and Gen Z are driving exponential adoption.
+
+---
+
 ## Code Examples
 
 ### Python: Data Analysis and Visualization
@@ -170,97 +260,6 @@ The following SQL query was used to extract insights about Bitcoin transaction v
 ![Screenshot 2024-12-22 132246](https://github.com/user-attachments/assets/1dedf3df-9f3d-4f12-9826-7ce05b88ed52)
 
 These examples showcase how Python and SQL were leveraged for data processing and visualization.
-
----
-
-
-## Project Highlights
-
-### **Bitcoin Creation Timeline**
-
-![Screenshot 2024-12-22 192824](https://github.com/user-attachments/assets/5e3674bb-163a-48bc-bf48-b9acbf9ee5af)
-
-
-- A chronological overview of Bitcoin's creation and milestones:
-  - **2008**: Introduction by Satoshi Nakamoto.
-  - **October 31, 2008**: Publication of Bitcoin’s whitepaper.
-  - **January 3, 2009**: Genesis Block mined.
-  - **January 12, 2009**: First Bitcoin transaction.
- 
- ---
-
-### **Blockchain Technology**
-
-![Screenshot 2024-12-22 193002](https://github.com/user-attachments/assets/b8285d5e-5b0d-47f4-8de6-7ee89dfd3a67)
-![Screenshot 2024-12-22 194701](https://github.com/user-attachments/assets/45f55664-ab19-4f1e-8791-b3e83a01a272)
-
-
-- Explains the blockchain’s structure, emphasizing key features:
-  - **Decentralization**: Operates without a central authority.
-  - **Transparency**: Publicly accessible transaction records.
-  - **Security**: Cryptographic techniques ensure data integrity and validation.
- 
----
-
-
-### **Bitcoin vs Fiat Comparison**
-
-![Screenshot 2024-12-22 193059](https://github.com/user-attachments/assets/125302b5-8c24-42dd-9828-2b61bd688a66)
-
-
----
-
-### **Bitcoin Halving and Monetary Policy**
-
-![Screenshot 2024-12-22 193226](https://github.com/user-attachments/assets/3d03dc7e-25e0-4fcf-ab5f-8c95255fea7e)
-
-
-- Describes Bitcoin’s hard cap of 21 million coins.
-- Explains halving events and their impact on scarcity and value.
-
----
-
-### **Real-Life Use Cases**
-
-![Screenshot 2024-12-22 193335](https://github.com/user-attachments/assets/bd22621b-2341-4f88-9f1d-6bb1d0aeed6a)
-
-
-- **Cross-Border Payments**: Enables low-cost, instant global transactions.
-- **Store of Value**: Serves as "digital gold" in regions experiencing hyperinflation.
-- **Institutional Adoption**: Increasing integration into financial strategies by companies and countries.
-
----
-
-## Key Insights
-1. **Bitcoin Outperforms Fiat**:
-
-
-![Screenshot 2024-12-22 132824](https://github.com/user-attachments/assets/0392a881-bdca-404a-8517-b40626f8b150)
-
-
-   - Resistant to inflation due to its fixed supply.
-   - Transparent and decentralized, empowering individuals.
-
----
-
-2. **Growing Adoption**:
-
-
-![Screenshot 2024-12-22 132828](https://github.com/user-attachments/assets/eb07a6f4-5636-4b78-8e33-1cb5c03631ee)
-
-
-   - Institutions like BlackRock and Fidelity validate Bitcoin as a financial asset.
-   - Regulatory clarity encourages further investment.
-
----
-
-3. **Future Potential**:
-
-
-![Screenshot 2024-12-22 132836](https://github.com/user-attachments/assets/c037e4f4-9b0f-4293-95ac-4a416c8cb116)
-
-   - Bitcoin’s technological advancements (e.g., Lightning Network) make it scalable for daily use.
-   - Millennials and Gen Z are driving exponential adoption.
 
 ---
 
