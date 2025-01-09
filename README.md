@@ -18,7 +18,7 @@
 
 ## Overview
 
-This repository contains an in-depth study and analysis of Bitcoin, showcasing its unique value proposition as a decentralized digital currency. The project explores Bitcoin's creation, blockchain technology, monetary policy, and comparison with traditional fiat currencies. Additionally, it highlights real-world use cases, institutional adoption, and Bitcoin's potential as a financial asset. Here is link for the [full presentation.](https://github.com/victorkaden/Bitcoin-Study-Case/blob/main/Bitcoin%20Study%20Case.pdf)
+This repository contains an in-depth study and analysis of Bitcoin, showcasing its unique value proposition as a decentralized digital currency. The project explores Bitcoin's creation, blockchain technology, monetary policy, and comparison with traditional fiat currencies. Additionally, it highlights real-world use cases, institutional adoption, and Bitcoin's potential as a financial asset. Here is link for the [full presentation.](https://github.com/victorkaden/Bitcoin-Study-Case/blob/main/Presentation/Bitcoin%20Study%20Case.pdf)
 
 
 ---
